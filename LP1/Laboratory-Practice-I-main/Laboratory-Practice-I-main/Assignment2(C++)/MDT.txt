@@ -1,0 +1,11 @@
+Index	  Macro Definition
+01        INCR &ARG1 &ARG2 &ARG3
+02        ADD AREG &ARG1
+03        ADD BREG &ARG2
+04        ADD CREG &ARG3
+05        MEND
+06        DECR &ARG4 &ARG5
+07        MOV AREG &ARG4
+08        SUB AREG &ARG5
+09        MOV BREG AREG
+10        MEND

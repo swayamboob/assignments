@@ -1,0 +1,7 @@
+START
+INCR A B C
+A DC 2
+B DC 2
+C DS 2
+DECR P Q
+END
